@@ -12,9 +12,9 @@
                 type="O2TI\AdvancedStreetAddress\Plugin\CheckoutAdvancedStreetAddress" 
                 sortOrder="90"/>
     </type>
-    <type name="Magento\Customer\Block\Address\Edit">
+    <!-- <type name="Magento\Customer\Block\Address\Edit">
         <plugin name="o2ti_advanced_street_address" 
                 type="O2TI\AdvancedStreetAddress\Plugin\CustomerAdvancedStreetAddress" 
                 sortOrder="90"/>
-    </type>
+    </type> -->
 </config>
